@@ -34,7 +34,7 @@ Diseñar una cuadrícula clara con bordes y símbolos (`X`, `O`, `*`) fue un ret
 ## 3. Enlaces de distribución
 
 - 🔗 **Repositorio del código fuente**: [https://github.com/EnzoSolis/BattleshipConsole](https://github.com/EnzoSolis/BattleshipConsole)
-- 📦 **Ejecutable (Windows)**: [https://drive.google.com/file/d/ejecutable_juego](https://drive.google.com/file/d/ejecutable_juego)
+- 📦 **Ejecutable (Windows)**: [https://github.com/EnzoSolis/BattleshipConsole/releases/download/Entrega/Battleship.zip](https://github.com/EnzoSolis/BattleshipConsole/releases/download/Entrega/Battleship.zip)
 
 ---
 
